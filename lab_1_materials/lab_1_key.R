@@ -3,7 +3,7 @@
 #-------------------------------
 
 #-------------------------------
-# Lab 1 objectives:
+# Lab 1 objectives: Testing 06/17/2021
 #-------------------------------
 
 # By the end of Lab 1, you should be able to...
